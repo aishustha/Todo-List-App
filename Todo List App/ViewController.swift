@@ -1,9 +1,12 @@
 //
 //  ViewController.swift
 //  Todo List App
-//
-//  Created by Aishwarya Shrestha on 2021-11-15.
-//
+// Student Id       : 301209947, 301138662
+// Student Name     : Keshav Dulal, Aishwarya Shrestha
+// Course           : MAPD 714 - IOS Development
+// Submission Date  : 11/16/2021
+// Assignment 4 - Todo List App - Part 1 - Create the app UI Todo List App
+
 
 import UIKit
 
